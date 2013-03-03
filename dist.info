@@ -1,0 +1,10 @@
+--- This file is part of LuaDist project
+
+name = "luinterface"
+version = "1.4.0"
+
+desc = "Mono-buildable version of LuaInterface"
+author = "Steve Donnovan"
+license = "MIT/X11"
+url = "https://github.com/stevedonovan/MonoLuaInterface"
+maintainer = "Peter Drahoš"
